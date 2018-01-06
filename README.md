@@ -1,18 +1,18 @@
-# H1 file-appender
+# file-appender
 
-## H2 Goal 1
+## Goal 1
 
 Attach the contents of sampleHand1.txt onto the end HH20171105 PokerTable - $25-$50 - USD CocoPoker Holdem.txt.
 
-## H2 Goal 2
+## Goal 2
 
 Attach the contents of a random file from sampleHands to a random file in RealTimeStorage. (same as above but random file + random destination)
 
-## H2 Goal 3
+## Goal 3
 
 Continually do goal 2 every 5 seconds times. (ctrl + c to stop it)
 
-## H2 Goal 4
+## Goal 4
 
 Edit the contents of the randomly chosen file from sampleHands as it is being put into the random file in RealTimeStorage.
 
