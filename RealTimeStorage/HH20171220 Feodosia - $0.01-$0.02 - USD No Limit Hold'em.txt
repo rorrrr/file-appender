@@ -1,0 +1,150 @@
+﻿PokerStars Hand #179821215821:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/12/20 21:41:08 WET [2017/12/20 16:41:08 ET]
+Table 'Feodosia' 9-max Seat #3 is the button
+Seat 2: rorrrr ($2 in chips) 
+Seat 3: victor128422 ($0.50 in chips) 
+Seat 8: Rokep02 ($2 in chips) 
+Rokep02: posts small blind $0.01
+rorrrr: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [Kc 7s]
+Egar7495 joins the table at seat #4 
+victor128422: folds 
+Rokep02: folds 
+Uncalled bet ($0.01) returned to rorrrr
+rorrrr collected $0.02 from pot
+rorrrr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.02 | Rake $0 
+Seat 2: rorrrr (big blind) collected ($0.02)
+Seat 3: victor128422 (button) folded before Flop (didn't bet)
+Seat 8: Rokep02 (small blind) folded before Flop
+
+
+
+PokerStars Hand #996589650340:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/12/20 21:41:20 WET [2017/12/20 16:41:20 ET]
+Table 'Feodosia' 9-max Seat #8 is the button
+Seat 2: rorrrr ($2.01 in chips) 
+Seat 3: victor128422 ($0.50 in chips) 
+Seat 8: Rokep02 ($2 in chips) 
+rorrrr: posts small blind $0.01
+victor128422: posts big blind $0.02
+Egar7495: sits out 
+*** HOLE CARDS ***
+Dealt to rorrrr [7s 9s]
+Rokep02: raises $0.04 to $0.06
+rorrrr: calls $0.05
+victor128422: folds 
+*** FLOP *** [7c 6h Qh]
+victor128422 leaves the table
+rorrrr: checks 
+Rokep02: checks 
+*** TURN *** [7c 6h Qh] [8c]
+rorrrr: bets $0.06
+Rokep02: calls $0.06
+*** RIVER *** [7c 6h Qh 8c] [Qs]
+Ehrenmann31 joins the table at seat #7 
+rorrrr: checks 
+Rokep02: checks 
+*** SHOW DOWN ***
+rorrrr: shows [7s 9s] (two pair, Queens and Sevens)
+Rokep02: shows [7d 9d] (two pair, Queens and Sevens)
+rorrrr collected $0.13 from pot
+Rokep02 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $761 | Rake $0.01 
+Board [7c 6h Qh 8c Qs]
+Seat 2: rorrrr (small blind) showed [7s 9s] and won ($0.13) with two pair, Queens and Sevens
+Seat 3: victor128422 (big blind) folded before Flop
+Seat 8: Rokep02 (button) showed [7d 9d] and won ($0.12) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #790223195066:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/12/20 21:29:33 WET [2017/12/20 16:29:33 ET]
+Table 'Nusakan II' 6-max Seat #3 is the button
+Seat 1: Rascal3000 ($2 in chips) 
+Seat 2: rorrrr ($3.13 in chips) 
+Seat 3: Praide_161ru ($3.37 in chips) 
+Seat 4: lauti214 ($1.98 in chips) 
+Seat 5: motylek95 ($2.30 in chips) 
+Seat 6: Joaquinchi ($2.51 in chips) 
+lauti214: posts small blind $0.01
+motylek95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [4s 5c]
+Joaquinchi: folds 
+Rascal3000: folds 
+rorrrr: folds 
+Praide_161ru: raises $0.05 to $0.07
+lauti214: folds 
+motylek95: folds 
+Uncalled bet ($0.05) returned to Praide_161ru
+Praide_161ru collected $0.05 from pot
+*** SUMMARY ***
+Total pot $8421 | Rake $0 
+Seat 1: Rascal3000 folded before Flop (didn't bet)
+Seat 2: rorrrr folded before Flop (didn't bet)
+Seat 3: Praide_161ru (button) collected ($0.05)
+Seat 4: lauti214 (small blind) folded before Flop
+Seat 5: motylek95 (big blind) folded before Flop
+Seat 6: Joaquinchi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #380964611417: Tournament #2154443950, $3.32+$0.18 USD Hold'em No Limit - Match Round I, Level V (30/60) - 2017/12/15 16:22:27 WET [2017/12/15 11:22:27 ET]
+Table '2154443950 1' 2-max Seat #1 is the button
+Seat 1: rorrrr (535 in chips) 
+Seat 2: TIGERPAPA (2465 in chips) 
+rorrrr: posts small blind 30
+TIGERPAPA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to rorrrr [Ac Kc]
+rorrrr: raises 475 to 535 and is all-in
+TIGERPAPA: calls 475
+*** FLOP *** [2c 4s 4c]
+*** TURN *** [2c 4s 4c] [3s]
+*** RIVER *** [2c 4s 4c 2s] [Ah]
+*** SHOW DOWN ***
+TIGERPAPA: shows [8s As] (two pair, Aces and Fours)
+rorrrr: shows [9c Kc] (two pair, Fours and Deuces)
+TIGERPAPA collected 1070 from pot
+rorrrr finished the tournament in 2nd place
+TIGERPAPA wins the tournament and receives $6.64 - congratulations!
+*** SUMMARY ***
+Total pot 957 | Rake 0 
+Board [2c 4s 4c 2s Ah]
+Seat 1: rorrrr (button) (small blind) showed [Ac Kc] and lost with two pair, Fours and Deuces
+Seat 2: TIGERPAPA (big blind) showed [8s As] and won (1270) with two pair, Aces and Fours
+
+
+
+PokerStars Hand #202276550645:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/12/20 21:29:33 WET [2017/12/20 16:29:33 ET]
+Table 'Nusakan II' 6-max Seat #3 is the button
+Seat 1: Rascal3000 ($2 in chips) 
+Seat 2: rorrrr ($3.13 in chips) 
+Seat 3: Praide_161ru ($3.37 in chips) 
+Seat 4: lauti214 ($1.98 in chips) 
+Seat 5: motylek95 ($2.30 in chips) 
+Seat 6: Joaquinchi ($2.51 in chips) 
+lauti214: posts small blind $0.01
+motylek95: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [4s 5c]
+Joaquinchi: folds 
+Rascal3000: folds 
+rorrrr: folds 
+Praide_161ru: raises $0.05 to $0.07
+lauti214: folds 
+motylek95: folds 
+Uncalled bet ($0.05) returned to Praide_161ru
+Praide_161ru collected $0.05 from pot
+*** SUMMARY ***
+Total pot $951 | Rake $0 
+Seat 1: Rascal3000 folded before Flop (didn't bet)
+Seat 2: rorrrr folded before Flop (didn't bet)
+Seat 3: Praide_161ru (button) collected ($0.05)
+Seat 4: lauti214 (small blind) folded before Flop
+Seat 5: motylek95 (big blind) folded before Flop
+Seat 6: Joaquinchi folded before Flop (didn't bet)
+
+
+
