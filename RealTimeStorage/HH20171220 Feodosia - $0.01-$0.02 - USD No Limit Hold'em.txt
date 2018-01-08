@@ -148,3 +148,79 @@ Seat 6: Joaquinchi folded before Flop (didn't bet)
 
 
 
+PokerStars Hand #179821224679:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/12/20 21:41:20 WET [2017/12/20 16:41:20 ET]
+Table 'Feodosia' 9-max Seat #8 is the button
+Seat 2: rorrrr ($2.01 in chips) 
+Seat 3: victor128422 ($0.50 in chips) 
+Seat 8: Rokep02 ($2 in chips) 
+rorrrr: posts small blind $0.01
+victor128422: posts big blind $0.02
+Egar7495: sits out 
+*** HOLE CARDS ***
+Dealt to rorrrr [7s 9s]
+Rokep02: raises $0.04 to $0.06
+rorrrr: calls $0.05
+victor128422: folds 
+*** FLOP *** [7c 6h Qh]
+victor128422 leaves the table
+rorrrr: checks 
+Rokep02: checks 
+*** TURN *** [7c 6h Qh] [8c]
+rorrrr: bets $0.06
+Rokep02: calls $0.06
+*** RIVER *** [7c 6h Qh 8c] [Qs]
+Ehrenmann31 joins the table at seat #7 
+rorrrr: checks 
+Rokep02: checks 
+*** SHOW DOWN ***
+rorrrr: shows [7s 9s] (two pair, Queens and Sevens)
+Rokep02: shows [7d 9d] (two pair, Queens and Sevens)
+rorrrr collected $0.13 from pot
+Rokep02 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7c 6h Qh 8c Qs]
+Seat 2: rorrrr (small blind) showed [7s 9s] and won ($0.13) with two pair, Queens and Sevens
+Seat 3: victor128422 (big blind) folded before Flop
+Seat 8: Rokep02 (button) showed [7d 9d] and won ($0.12) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #179821224679:  Hold'em No Limit ($0.01/$0.02 USD) - 2017/12/20 21:41:20 WET [2017/12/20 16:41:20 ET]
+Table 'Feodosia' 9-max Seat #8 is the button
+Seat 2: rorrrr ($2.01 in chips) 
+Seat 3: victor128422 ($0.50 in chips) 
+Seat 8: Rokep02 ($2 in chips) 
+rorrrr: posts small blind $0.01
+victor128422: posts big blind $0.02
+Egar7495: sits out 
+*** HOLE CARDS ***
+Dealt to rorrrr [7s 9s]
+Rokep02: raises $0.04 to $0.06
+rorrrr: calls $0.05
+victor128422: folds 
+*** FLOP *** [7c 6h Qh]
+victor128422 leaves the table
+rorrrr: checks 
+Rokep02: checks 
+*** TURN *** [7c 6h Qh] [8c]
+rorrrr: bets $0.06
+Rokep02: calls $0.06
+*** RIVER *** [7c 6h Qh 8c] [Qs]
+Ehrenmann31 joins the table at seat #7 
+rorrrr: checks 
+Rokep02: checks 
+*** SHOW DOWN ***
+rorrrr: shows [7s 9s] (two pair, Queens and Sevens)
+Rokep02: shows [7d 9d] (two pair, Queens and Sevens)
+rorrrr collected $0.13 from pot
+Rokep02 collected $0.12 from pot
+*** SUMMARY ***
+Total pot $0.26 | Rake $0.01 
+Board [7c 6h Qh 8c Qs]
+Seat 2: rorrrr (small blind) showed [7s 9s] and won ($0.13) with two pair, Queens and Sevens
+Seat 3: victor128422 (big blind) folded before Flop
+Seat 8: Rokep02 (button) showed [7d 9d] and won ($0.12) with two pair, Queens and Sevens
+
+
+

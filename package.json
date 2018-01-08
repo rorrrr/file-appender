@@ -1,0 +1,19 @@
+{
+  "name": "file-appender",
+  "version": "1.0.0",
+  "description": "## Goal 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rorrrr/file-appender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rorrrr/file-appender/issues"
+  },
+  "homepage": "https://github.com/rorrrr/file-appender#readme"
+}

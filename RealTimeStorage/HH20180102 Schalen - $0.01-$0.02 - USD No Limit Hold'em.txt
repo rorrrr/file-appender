@@ -289,3 +289,290 @@ Seat 2: TIGERPAPA (big blind) showed [8s As] and won (1270) with two pair, Aces 
 
 
 
+PokerStars Hand #180398233194:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/01/02 14:10:50 WET [2018/01/02 9:10:50 ET]
+Table 'Schalen' 6-max Seat #6 is the button
+Seat 1: zarzik555 ($4.55 in chips) 
+Seat 2: amazingartem ($2 in chips) 
+Seat 4: rorrrr ($1.60 in chips) 
+Seat 5: LEKS(43rus) ($0.55 in chips) 
+Seat 6: Rokaccu ($1.02 in chips) 
+zarzik555: posts small blind $0.01
+amazingartem: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [9c Ad]
+rorrrr: raises $0.04 to $0.06
+LEKS(43rus): folds 
+Rokaccu: folds 
+zarzik555: raises $0.04 to $0.10
+amazingartem: folds 
+rorrrr: calls $0.04
+*** FLOP *** [Tc 6d 4h]
+zarzik555: bets $0.04
+rorrrr: calls $0.04
+*** TURN *** [Tc 6d 4h] [Ac]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** RIVER *** [Tc 6d 4h Ac] [8h]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** SHOW DOWN ***
+zarzik555: shows [Qh Kc] (high card Ace)
+rorrrr: shows [9c Ad] (a pair of Aces)
+rorrrr collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Tc 6d 4h Ac 8h]
+Seat 1: zarzik555 (small blind) showed [Qh Kc] and lost with high card Ace
+Seat 2: amazingartem (big blind) folded before Flop
+Seat 4: rorrrr showed [9c Ad] and won ($0.53) with a pair of Aces
+Seat 5: LEKS(43rus) folded before Flop (didn't bet)
+Seat 6: Rokaccu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #180398233194:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/01/02 14:10:50 WET [2018/01/02 9:10:50 ET]
+Table 'Schalen' 6-max Seat #6 is the button
+Seat 1: zarzik555 ($4.55 in chips) 
+Seat 2: amazingartem ($2 in chips) 
+Seat 4: rorrrr ($1.60 in chips) 
+Seat 5: LEKS(43rus) ($0.55 in chips) 
+Seat 6: Rokaccu ($1.02 in chips) 
+zarzik555: posts small blind $0.01
+amazingartem: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [9c Ad]
+rorrrr: raises $0.04 to $0.06
+LEKS(43rus): folds 
+Rokaccu: folds 
+zarzik555: raises $0.04 to $0.10
+amazingartem: folds 
+rorrrr: calls $0.04
+*** FLOP *** [Tc 6d 4h]
+zarzik555: bets $0.04
+rorrrr: calls $0.04
+*** TURN *** [Tc 6d 4h] [Ac]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** RIVER *** [Tc 6d 4h Ac] [8h]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** SHOW DOWN ***
+zarzik555: shows [Qh Kc] (high card Ace)
+rorrrr: shows [9c Ad] (a pair of Aces)
+rorrrr collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Tc 6d 4h Ac 8h]
+Seat 1: zarzik555 (small blind) showed [Qh Kc] and lost with high card Ace
+Seat 2: amazingartem (big blind) folded before Flop
+Seat 4: rorrrr showed [9c Ad] and won ($0.53) with a pair of Aces
+Seat 5: LEKS(43rus) folded before Flop (didn't bet)
+Seat 6: Rokaccu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #180398233194:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/01/02 14:10:50 WET [2018/01/02 9:10:50 ET]
+Table 'Schalen' 6-max Seat #6 is the button
+Seat 1: zarzik555 ($4.55 in chips) 
+Seat 2: amazingartem ($2 in chips) 
+Seat 4: rorrrr ($1.60 in chips) 
+Seat 5: LEKS(43rus) ($0.55 in chips) 
+Seat 6: Rokaccu ($1.02 in chips) 
+zarzik555: posts small blind $0.01
+amazingartem: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [9c Ad]
+rorrrr: raises $0.04 to $0.06
+LEKS(43rus): folds 
+Rokaccu: folds 
+zarzik555: raises $0.04 to $0.10
+amazingartem: folds 
+rorrrr: calls $0.04
+*** FLOP *** [Tc 6d 4h]
+zarzik555: bets $0.04
+rorrrr: calls $0.04
+*** TURN *** [Tc 6d 4h] [Ac]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** RIVER *** [Tc 6d 4h Ac] [8h]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** SHOW DOWN ***
+zarzik555: shows [Qh Kc] (high card Ace)
+rorrrr: shows [9c Ad] (a pair of Aces)
+rorrrr collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Tc 6d 4h Ac 8h]
+Seat 1: zarzik555 (small blind) showed [Qh Kc] and lost with high card Ace
+Seat 2: amazingartem (big blind) folded before Flop
+Seat 4: rorrrr showed [9c Ad] and won ($0.53) with a pair of Aces
+Seat 5: LEKS(43rus) folded before Flop (didn't bet)
+Seat 6: Rokaccu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #180398233194:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/01/02 14:10:50 WET [2018/01/02 9:10:50 ET]
+Table 'Schalen' 6-max Seat #6 is the button
+Seat 1: zarzik555 ($4.55 in chips) 
+Seat 2: amazingartem ($2 in chips) 
+Seat 4: rorrrr ($1.60 in chips) 
+Seat 5: LEKS(43rus) ($0.55 in chips) 
+Seat 6: Rokaccu ($1.02 in chips) 
+zarzik555: posts small blind $0.01
+amazingartem: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [9c Ad]
+rorrrr: raises $0.04 to $0.06
+LEKS(43rus): folds 
+Rokaccu: folds 
+zarzik555: raises $0.04 to $0.10
+amazingartem: folds 
+rorrrr: calls $0.04
+*** FLOP *** [Tc 6d 4h]
+zarzik555: bets $0.04
+rorrrr: calls $0.04
+*** TURN *** [Tc 6d 4h] [Ac]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** RIVER *** [Tc 6d 4h Ac] [8h]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** SHOW DOWN ***
+zarzik555: shows [Qh Kc] (high card Ace)
+rorrrr: shows [9c Ad] (a pair of Aces)
+rorrrr collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Tc 6d 4h Ac 8h]
+Seat 1: zarzik555 (small blind) showed [Qh Kc] and lost with high card Ace
+Seat 2: amazingartem (big blind) folded before Flop
+Seat 4: rorrrr showed [9c Ad] and won ($0.53) with a pair of Aces
+Seat 5: LEKS(43rus) folded before Flop (didn't bet)
+Seat 6: Rokaccu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #180398233194:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/01/02 14:10:50 WET [2018/01/02 9:10:50 ET]
+Table 'Schalen' 6-max Seat #6 is the button
+Seat 1: zarzik555 ($4.55 in chips) 
+Seat 2: amazingartem ($2 in chips) 
+Seat 4: rorrrr ($1.60 in chips) 
+Seat 5: LEKS(43rus) ($0.55 in chips) 
+Seat 6: Rokaccu ($1.02 in chips) 
+zarzik555: posts small blind $0.01
+amazingartem: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [9c Ad]
+rorrrr: raises $0.04 to $0.06
+LEKS(43rus): folds 
+Rokaccu: folds 
+zarzik555: raises $0.04 to $0.10
+amazingartem: folds 
+rorrrr: calls $0.04
+*** FLOP *** [Tc 6d 4h]
+zarzik555: bets $0.04
+rorrrr: calls $0.04
+*** TURN *** [Tc 6d 4h] [Ac]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** RIVER *** [Tc 6d 4h Ac] [8h]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** SHOW DOWN ***
+zarzik555: shows [Qh Kc] (high card Ace)
+rorrrr: shows [9c Ad] (a pair of Aces)
+rorrrr collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Tc 6d 4h Ac 8h]
+Seat 1: zarzik555 (small blind) showed [Qh Kc] and lost with high card Ace
+Seat 2: amazingartem (big blind) folded before Flop
+Seat 4: rorrrr showed [9c Ad] and won ($0.53) with a pair of Aces
+Seat 5: LEKS(43rus) folded before Flop (didn't bet)
+Seat 6: Rokaccu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #180398233194:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/01/02 14:10:50 WET [2018/01/02 9:10:50 ET]
+Table 'Schalen' 6-max Seat #6 is the button
+Seat 1: zarzik555 ($4.55 in chips) 
+Seat 2: amazingartem ($2 in chips) 
+Seat 4: rorrrr ($1.60 in chips) 
+Seat 5: LEKS(43rus) ($0.55 in chips) 
+Seat 6: Rokaccu ($1.02 in chips) 
+zarzik555: posts small blind $0.01
+amazingartem: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [9c Ad]
+rorrrr: raises $0.04 to $0.06
+LEKS(43rus): folds 
+Rokaccu: folds 
+zarzik555: raises $0.04 to $0.10
+amazingartem: folds 
+rorrrr: calls $0.04
+*** FLOP *** [Tc 6d 4h]
+zarzik555: bets $0.04
+rorrrr: calls $0.04
+*** TURN *** [Tc 6d 4h] [Ac]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** RIVER *** [Tc 6d 4h Ac] [8h]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** SHOW DOWN ***
+zarzik555: shows [Qh Kc] (high card Ace)
+rorrrr: shows [9c Ad] (a pair of Aces)
+rorrrr collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Tc 6d 4h Ac 8h]
+Seat 1: zarzik555 (small blind) showed [Qh Kc] and lost with high card Ace
+Seat 2: amazingartem (big blind) folded before Flop
+Seat 4: rorrrr showed [9c Ad] and won ($0.53) with a pair of Aces
+Seat 5: LEKS(43rus) folded before Flop (didn't bet)
+Seat 6: Rokaccu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #180398233194:  Hold'em No Limit ($0.01/$0.02 USD) - 2018/01/02 14:10:50 WET [2018/01/02 9:10:50 ET]
+Table 'Schalen' 6-max Seat #6 is the button
+Seat 1: zarzik555 ($4.55 in chips) 
+Seat 2: amazingartem ($2 in chips) 
+Seat 4: rorrrr ($1.60 in chips) 
+Seat 5: LEKS(43rus) ($0.55 in chips) 
+Seat 6: Rokaccu ($1.02 in chips) 
+zarzik555: posts small blind $0.01
+amazingartem: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to rorrrr [9c Ad]
+rorrrr: raises $0.04 to $0.06
+LEKS(43rus): folds 
+Rokaccu: folds 
+zarzik555: raises $0.04 to $0.10
+amazingartem: folds 
+rorrrr: calls $0.04
+*** FLOP *** [Tc 6d 4h]
+zarzik555: bets $0.04
+rorrrr: calls $0.04
+*** TURN *** [Tc 6d 4h] [Ac]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** RIVER *** [Tc 6d 4h Ac] [8h]
+zarzik555: bets $0.06
+rorrrr: calls $0.06
+*** SHOW DOWN ***
+zarzik555: shows [Qh Kc] (high card Ace)
+rorrrr: shows [9c Ad] (a pair of Aces)
+rorrrr collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Tc 6d 4h Ac 8h]
+Seat 1: zarzik555 (small blind) showed [Qh Kc] and lost with high card Ace
+Seat 2: amazingartem (big blind) folded before Flop
+Seat 4: rorrrr showed [9c Ad] and won ($0.53) with a pair of Aces
+Seat 5: LEKS(43rus) folded before Flop (didn't bet)
+Seat 6: Rokaccu (button) folded before Flop (didn't bet)
+
+
+
