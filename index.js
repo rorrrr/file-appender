@@ -49,21 +49,29 @@ var randomDirectory = fs.readdirSync(destination1, "UTF8");
 // }
 
 function appendRandomContentToRandomFile() {
-  var random = Math.floor(Math.random() * 5 + 1);
-  var random2 = Math.floor(Math.random() * 5 + 1);
+  var sampleHandsFileLength = randomhand.length;
+  var destinationDirectoryLength = destinationDirectory.length;
+  console.log(destinationDirectoryLength);
+
+  var random = Math.floor(Math.random() * sampleHandsFileLength + 1);
+  var random2 = Math.floor(
+    Math.random() * (destinationDirectoryLength - 1) + 1
+  );
   var randomDirectoryReal = destination1 + "/" + randomDirectory[random2];
   var randomFileContents = fs.readFileSync(
     sampleHandsFolder + "/" + randomhand[random],
     "UTF8"
   );
-  fs.appendFile(randomDirectoryReal, randomFileContents, "UTF8", err => {
+
+  var newFileContents = grabPokerStarsHandNo(randomFileContents);
+
+  fs.appendFile(randomDirectoryReal, newFileContents, "UTF8", err => {
     if (err) throw err;
-    // console.log("going: ", randomDirectoryReal);
-    // console.log("coming from:", randomhand[random]);
+    console.log("going: ", randomDirectoryReal);
+    console.log("coming from:", randomhand[random]);
 
     // console.log(randomFileContents);
   });
-  grabPokerStarsHandNo(randomFileContents);
 }
 
 //---------------------------------TASK THREE-----------------------------------------------
@@ -79,16 +87,16 @@ callEveryFiveSeconds();
 
 function grabPokerStarsHandNo(randomFileContents) {
   // console.log(randomFileContents);
-  var randomHandNumber = Math.floor(
-    Math.random() * 900000000000 + 100000000000
-  );
+  var randomHandNumber =
+    "#" + Math.floor(Math.random() * 900000000000 + 100000000000) + ":";
   // console.log(randomHandNumber);
   var splitByNewLine = randomFileContents.split("\n");
   var getHash = splitByNewLine[0].split(" ")[2];
-  console.log("gethash", getHash);
+  // console.log("gethash", getHash);
   new RegExp(getHash, "g");
   new RegExp(randomHandNumber, "g");
   var test = randomFileContents.replace(getHash, randomHandNumber);
+  return test;
 
   console.log(randomHandNumber);
 
